@@ -1,0 +1,31 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFF00;
+	background-color: #000033;
+}
+a {
+	color: #FFCC66;
+	text-decoration: underline blink;
+	font-weight: bold;
+	height: auto;
+	width: auto;
+	font-variant: normal;
+	text-transform: capitalize;
+}
+a {
+	color: #F0F0F0;
+}
+h2{
+padding:"10px";
+font-family:"Georgia",Times New Roman;
+font-size:24px;
+} 
+
+img.myimg
+{
+height:"200px";
+width:"200px";
+}
+
+
+
